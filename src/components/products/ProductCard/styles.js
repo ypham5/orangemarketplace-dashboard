@@ -17,10 +17,10 @@ const ProductCardStyles  = styled.div`
       width: 420px;
       margin-bottom: 3rem;
       min-height: 580px;
-      ${'' /* h2{
+      /* h2{
           font-size: 1.375rem;
           color: #374151;
-      } */}
+      } */
 `;
 
 
@@ -37,6 +37,7 @@ const ProductImage = styled.div`
 `;
 
 const ProductName = styled.h2`
+      font-family: 'Rubik', sans-serif;
       font-weight: 700;
       font-size: 1.25rem;
       line-height: 2;

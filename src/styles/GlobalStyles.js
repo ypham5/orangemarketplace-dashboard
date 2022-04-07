@@ -341,8 +341,8 @@ const GlobalStyles = createGlobalStyle`
  
  body {
   margin: 0;
-  font-family: 'Rubik', sans-serif;
-  /* font-family: 'Jost', sans-serif; */
+  /* font-family: 'Rubik', sans-serif; */
+  font-family: 'Jost', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
